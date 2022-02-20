@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @syedsalik
 - 👀 I’m interested in web and mobile application
 - 🌱 I’m currently learning React native amd flutter
-- 💞️ I’m looking to collaborate on developer
+- 💞️ I’m looking to collaborate with experience developer
 - 📫 syedsalikjamil@gmail.com / 03208328662 
 
 <!---
